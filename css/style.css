@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+
+}
+.Apresentação { 
+    display: flex;
+    margin-top: 150px;
+   
+
+
+
+}
+img {
+    height: 15rem;
+    border: 50px;
+    color: beige;
+    margin: 20px;
+    height: 20%;
+    margin-top: 80px;
+    
+}
+.meuh1 {
+    display: contents;
+    margin-top: 12px;
+} 
